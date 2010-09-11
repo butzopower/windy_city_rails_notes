@@ -1,0 +1,12 @@
+==========
+Metric Foo
+==========
+
+* Flog and Saikuro
+** Cyclomatic Complexity analysis
+** ABC Metric
+*** Assigns, Branches, Calls
+** Analyzes ABC, scores each differently, and gives total score on individual methods
+** http://ruby.sadi.st/Flog.html
+
+
